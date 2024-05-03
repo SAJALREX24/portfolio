@@ -1,0 +1,51 @@
+[
+  {
+    "title": "E Commerce Website",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAJALREX24/ecommerce_website"
+  },
+  {
+    "title": "ERC20 TOKEN PROJECT",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Solidity","Metamask","Typescript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAJALREX24/ERC20_SMARTCONTRACT"
+  },
+  {
+    "title": "Decentralized Chatapp",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node","Solidity","Hardhat"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAJALREX24/DAPP"
+  },
+  {
+    "title": "Incryption_Decryption",
+    "imageSrc": "projects/project4.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAJALREX24/Incryption_Decryption"
+  },
+  {
+    "title": "NSE_Data-scrapping_project",
+    "imageSrc": "projects/project5.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node","Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAJALREX24/NSE_Data-scrapping_project"
+  },
+  {
+    "title": "BNB Smart Chain Project",
+    "imageSrc": "projects/project6.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node","Javascript","APIs"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SAJALREX24/NSE_Data-scrapping_project"
+  }
+
+]

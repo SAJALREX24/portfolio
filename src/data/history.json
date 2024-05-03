@@ -1,0 +1,29 @@
+[
+  {
+    "role": "FRONTEND DEVELOPER",
+    "organisation": "GLA CSED",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on building differnt webpages", "Reduced load times by 50%"],
+    "imageSrc": "history/csed2.png"
+  },
+  {
+    "role": "SMART CONTRACT DEVELOPER",
+    "organisation": "CSED",
+    "startDate": "Dec, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on ERC20 Smart Contracts", "Token Creation,Minting,Burning,Swaping etc"],
+    "imageSrc": "history/eth.png"
+  },
+  {
+    "role": "CRYPTOANALYST",
+    "organisation": "COINGECKO",
+    "startDate": "Apr, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on analysing different cryptos",
+      "Understanding  Use cases and future potential"
+    ],
+    "imageSrc": "history/coin.png"
+  }
+]
